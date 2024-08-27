@@ -1,5 +1,5 @@
-Caso Práctico 4
-Integracion JS - mySQL
+# Caso Práctico 4
+# Integracion JS - mySQL
 Objetivo: 
 • Practicar la conexión a una base de datos MySQL desde una aplicación JavaScript utilizando Node.js. 
 • Aprender a realizar consultas SQL básicas y manejar los resultados en una aplicación Node.js. 
